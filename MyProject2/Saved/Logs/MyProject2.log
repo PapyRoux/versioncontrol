@@ -1552,3 +1552,33 @@ Sampler Limit: 32
 [2026.03.02-11.16.19:437][448]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
 [2026.03.02-11.16.19:438][448]LogShaderCompilers: Display: Material Cache Hits: 2 (1%)
 [2026.03.02-11.16.19:438][448]LogShaderCompilers: Display: ================================================
+[2026.03.02-11.17.03:449][581]LogHttp: Warning: 0000014945EC8500: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.03.02-11.17.03:449][581]LogHttp: Warning: 0000014945EC8500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.03.02-11.17.03:449][581]LogHttp: Warning: 0000014945EC8500: libcurl info message cache 1 (shutting down connection #3)
+[2026.03.02-11.17.03:449][581]LogHttp: Warning: 0000014945EC8500 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEA0AB90B-4734-ECED-E72F-FA9C582CC4FC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=f7812329434b92a6c3704bbe0eed978a%7C%7C7fff95ce-3a6d-4fab-b1cb-6b9919ac638b&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.01s
+[2026.03.02-11.17.28:616][468]Cmd: TRANSACTION UNDO
+[2026.03.02-11.17.28:616][468]LogEditorTransaction: Undo Place Objects
+[2026.03.02-11.17.31:199][674]Cmd: TRANSACTION UNDO
+[2026.03.02-11.17.31:199][674]LogEditorTransaction: Undo Place Objects
+[2026.03.02-11.17.41:776][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-11.17.41:845][727]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/W9/ZAAGYIUQZ2W6WEO3HPXAX7
+[2026.03.02-11.17.41:845][727]LogSavePackage: Moving 'C:/Users/shiera.rutgers/Documents/GitHub/versioncontrol/MyProject2/Saved/ZAAGYIUQZ2W6WEO3HPXAX77963ACD24186C2795D671AA556390789.tmp' to 'C:/Users/shiera.rutgers/Documents/GitHub/versioncontrol/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/W9/ZAAGYIUQZ2W6WEO3HPXAX7.uasset'
+[2026.03.02-11.17.41:847][727]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/8I/HFL05AWIVBP8M8UXTV4H5K
+[2026.03.02-11.17.41:847][727]LogSavePackage: Moving 'C:/Users/shiera.rutgers/Documents/GitHub/versioncontrol/MyProject2/Saved/HFL05AWIVBP8M8UXTV4H5K75AE34FF4A38D109316B91AB364656E1.tmp' to 'C:/Users/shiera.rutgers/Documents/GitHub/versioncontrol/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/8I/HFL05AWIVBP8M8UXTV4H5K.uasset'
+[2026.03.02-11.17.41:849][727]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/7A/C0UVMH95QVQO1KMTVK7MSB
+[2026.03.02-11.17.41:849][727]LogSavePackage: Moving 'C:/Users/shiera.rutgers/Documents/GitHub/versioncontrol/MyProject2/Saved/C0UVMH95QVQO1KMTVK7MSBD176B3884263DE32123CDB809CF24A86.tmp' to 'C:/Users/shiera.rutgers/Documents/GitHub/versioncontrol/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/7A/C0UVMH95QVQO1KMTVK7MSB.uasset'
+[2026.03.02-11.17.41:851][727]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/8U/VKFLMM0CV8ZCC0P3TQGTTM
+[2026.03.02-11.17.41:852][727]LogSavePackage: Moving 'C:/Users/shiera.rutgers/Documents/GitHub/versioncontrol/MyProject2/Saved/VKFLMM0CV8ZCC0P3TQGTTM6A16FBDC4C955BBA5E08528EE446AD87.tmp' to 'C:/Users/shiera.rutgers/Documents/GitHub/versioncontrol/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/8U/VKFLMM0CV8ZCC0P3TQGTTM.uasset'
+[2026.03.02-11.17.41:853][727]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/2F/XTDQUHCYJJV6JCH4OJSVLG
+[2026.03.02-11.17.41:854][727]LogSavePackage: Moving 'C:/Users/shiera.rutgers/Documents/GitHub/versioncontrol/MyProject2/Saved/XTDQUHCYJJV6JCH4OJSVLG7E4D7DAE4372955C3A000BB2A9074BFB.tmp' to 'C:/Users/shiera.rutgers/Documents/GitHub/versioncontrol/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/2F/XTDQUHCYJJV6JCH4OJSVLG.uasset'
+[2026.03.02-11.17.41:863][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.519 ms (total: 348.810 ms)
+[2026.03.02-11.17.41:893][727]LogContentValidation: Display: Starting to validate 5 assets
+[2026.03.02-11.17.41:893][727]LogContentValidation: Enabled validators:
+[2026.03.02-11.17.41:893][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-11.17.41:893][727]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-11.17.41:893][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-11.17.41:893][727]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-11.17.41:893][727]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-11.17.41:893][727]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-11.17.41:893][727]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.03.02-11.17.41:909][728]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/shiera.rutgers/Documents/GitHub/versioncontrol/MyProject2/Saved/SourceControl/UncontrolledChangelists.json
