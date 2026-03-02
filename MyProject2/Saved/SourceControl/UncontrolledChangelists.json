@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/aiden.cordoba/Documents/GitHub/versioncontrol/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/FA/PBDS7E2TSIS6IAET5DO53O.uasset",
+				"C:/Users/aiden.cordoba/Documents/GitHub/versioncontrol/MyProject2/Content/Art/asset/openPBR_shader1.uasset",
+				"C:/Users/aiden.cordoba/Documents/GitHub/versioncontrol/MyProject2/Content/Art/asset/timeoyouhou.uasset"
+			]
+		}
+	]
+}
