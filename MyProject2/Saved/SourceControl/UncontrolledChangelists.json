@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/Art/DianeVitry/30_materials/pierreblanche.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/Art/DianeVitry/30_materials/Maya_Lambert1SG6.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/Art/DianeVitry/30_materials/Maya_Lambert1SG5.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/Art/DianeVitry/30_materials/Maya_Lambert1SG4.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/Art/DianeVitry/30_materials/Maya_Lambert1SG3.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/Art/DianeVitry/30_materials/Maya_Lambert1SG1.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/Art/DianeVitry/30_materials/Maya_Lambert1SG.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/Art/DianeVitry/30_materials/Maya_Blinn1SG.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/Art/DianeVitry/30_materials/initialShadingGroup.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/Art/DianeVitry/30_materials/entre.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/VZ/3914TSCWRNBMR3K8S2GUZ7.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/58/8CSIVQOGXF1XSC12UNMSGI.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/Art/DianeVitry/10_meshes/tile_deco.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/Art/DianeVitry/20_textures/brick_wall_005_arm_1k.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/Art/DianeVitry/20_textures/brick_wall_005_diff_1k.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/Art/DianeVitry/20_textures/brick_wall_005_disp_1k.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/Art/DianeVitry/20_textures/brick_wall_005_nor_gl_1k.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/Art/DianeVitry/10_meshes/mid1.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/Art/DianeVitry/10_meshes/milieu_tram.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/Art/DianeVitry/10_meshes/tram.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/Art/DianeVitry/10_meshes/initialShadingGroup.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/Art/DianeVitry/10_meshes/cagoule.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/0K/J0GZ95ANNKT7D6RV2E7UGI.uasset",
+				"C:/Users/diane.vitry/Documents/GitHub/versioncontrol/MyProject2/Content/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/C/S1/PZW4PHVI7G65M32WL488HS.uasset"
+			]
+		}
+	]
+}
